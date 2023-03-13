@@ -8,3 +8,5 @@ Pueden hacer lo que quieran...
 
 ### Actualizado desde GitHub
 Mensaje editado de practicas
+
+## Prueba de configuracion global para el PULL
